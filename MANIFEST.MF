@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Hydrant
+Class-Path: ./
+SplashScreen-Image: hydrant.png
